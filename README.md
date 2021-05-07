@@ -4,7 +4,7 @@ There are 4 mini projects covered using React from the [FreeCodeCamps's React pr
 
 ## [1. Portfolio ](https://github.com/TejasV58/React-Mini-Projects/tree/main/my_portfolio)
 
-![Portfolio_image](https://user-images.githubusercontent.com/64249206/117314814-c0f3ba00-aea4-11eb-911a-89bf09e56202.PNG)
+![portfolio](https://user-images.githubusercontent.com/64249206/117455021-5bff9900-af64-11eb-9a19-9ef0935190bb.PNG)
 
 ## [2. Review Slider](https://github.com/TejasV58/React-Mini-Projects/tree/main/review_slider)
 
