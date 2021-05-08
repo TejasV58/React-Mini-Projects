@@ -16,4 +16,4 @@ There are 4 mini projects covered using React from the [FreeCodeCamps's React pr
 
 ## [ 4. Cocktails](#)
 
-
+![cocktails](https://user-images.githubusercontent.com/64249206/117526744-a3c60500-afe4-11eb-96ed-1695e42f5003.PNG)
